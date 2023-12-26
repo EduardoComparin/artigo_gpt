@@ -41,9 +41,9 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie 10 headlines para nomes de artigos sobre o assunto "Cubit no Flutter"                                                                                                                                                                                                    |
-| conteúdo | Faça um texto para ebook, com foco no Cubit, listando os principais pontos do Cubit seguindo as regras {REGRAS}. Explique sempre de uma maneira simples Deixe o texto enxuto,
-Sempre traga exemplos de código em contextos reais, sempre deixe um título sugestivo por tópico |
+|  título  | Crie 10 headlines para nomes de artigos sobre o assunto "Cubit no Flutter"|
+| conteúdo | Faça um texto para ebook, com foco no Cubit, listando os principais pontos do Cubit seguindo as regras {REGRAS}. Explique sempre de uma maneira simples Deixe o texto enxuto|
+| |Sempre traga exemplos de código em contextos reais, sempre deixe um título sugestivo por tópico |
 
 
 Runwayml.com：
